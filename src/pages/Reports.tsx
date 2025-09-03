@@ -308,7 +308,7 @@ const Reports = () => {
                           </TableCell>
                           <TableCell className="p-2">
                             <div className="flex gap-1">
-                              <Link to={`/reports/${report.nomor_laporan || report.id}`}>
+                              <Link to={`/reports/${report.id}`}>
                                 <Button variant="outline" size="sm" className="border-border hover:bg-muted h-7 w-7 p-0">
                                   <Eye className="h-3 w-3" />
                                 </Button>
