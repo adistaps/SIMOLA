@@ -304,16 +304,8 @@ Hasil build dalam folder `dist/` dapat di-deploy ke:
 Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lengkap.
 
 ## 👥 Tim Pengembang
+Adista Putra Suyatno
 
-**Kepolisian Daerah Istimewa Yogyakarta**
-- Tim IT Polda DIY
-- Divisi Layanan Masyarakat
-
-## 📞 Kontak & Support
-
-- **Email**: support@poldadiy.go.id
-- **Phone**: 0274-xxx-xxxx
-- **Website**: https://poldadiy.go.id
 
 ## 🔄 Changelog
 
